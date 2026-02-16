@@ -1,5 +1,5 @@
 # 💫 About Me:
-Luiz Henrique Grazziotin de Oliveira<br>Técnico de Informática - Suporte Operacional | Estudante de Ciência da Computação<br><br>Tenho um grande interesse por desenvolvimento web e programação, estou em constante aprimoramento<br>e estudando para melhorar minhas habilidades.<br>No momento, estou focado em aprofundar meus conhecimentos em Javascript, Typescript, React e NodeJS
+Luiz Henrique Grazziotin de Oliveira<br>Técnico de Informática - Suporte Operacional | Estudante de Ciência da Computação<br><br>Tenho um grande interesse por desenvolvimento web e programação, estou em constante aprimoramento<br>e estudando para melhorar minhas habilidades.<br>No momento, estou focado em aprofundar meus conhecimentos em C#, Blazor e Bootstrap
 
 
 ## 🌐 Socials:
