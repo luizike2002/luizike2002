@@ -1,6 +1,6 @@
 # 💫 About Me
 Luiz Henrique Grazziotin de Oliveira<br>
-Técnico de Informática - Suporte Operacional | Estudante de Ciência da Computação<br><br>
+Dev Junior - Analista de Dados | Estudante de Ciência da Computação 6/8<br><br>
 Tenho grande interesse por desenvolvimento web e programação. Estou em constante aprimoramento e estudando para melhorar minhas habilidades.<br>
 No momento, estou focado em aprofundar meus conhecimentos em TypeScript, React, Next.js, C#, Blazor e Bootstrap.
 
@@ -26,8 +26,6 @@ No momento, estou focado em aprofundar meus conhecimentos em TypeScript, React, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,10 +38,6 @@ No momento, estou focado em aprofundar meus conhecimentos em TypeScript, React, 
 <!-- PROFILE-STATS:START -->
 Aguardando primeira execução do workflow `Update profile stats`.
 <!-- PROFILE-STATS:END -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=luizike2002&icon=2&color=1)](https://visitcount.itsvg.in)
 
